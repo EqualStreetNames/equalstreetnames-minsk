@@ -8,7 +8,6 @@ name,source,gender,wikidata,type
 "улица Барамзиной",wikidata,F,Q2361329,way
 "улица Веры Слуцкой",wikidata,F,Q1969808,way
 "улица Веры Хоружей",wikidata,F,Q889485,way
-"улица Гризодубовой",wikidata,F,Q453829,way
 "улица Евфросиньи Полоцкой",wikidata,F,Q257706,way
 "улица Зои Космодемьянской",wikidata,F,Q229062,way
 "улица Клары Цеткин",wikidata,F,Q75823,way
@@ -68,7 +67,6 @@ name,source,gender,wikidata,type
 "3-й переулок Зубачёва",wikidata,M,Q4194263,way
 "3-й переулок Кольцова",wikidata,M,Q444969,way
 "3-й переулок Можайского",wikidata,M,Q365820,way
-"3-й переулок Стасова",wikidata,M,Q464192,way
 "3-й переулок Щедрина",wikidata,M,Q211785,way
 "3-я улица Щорса",wikidata,M,Q1990730,way
 "4-й переулок Кольцова",wikidata,M,Q444969,way
@@ -77,6 +75,7 @@ name,source,gender,wikidata,type
 "Гоголевская улица",wikidata,M,Q43718,way
 "Домашевская улица",wikidata,M,Q704477,way
 "Площадь Змитрока Бядули",wikidata,M,Q2662384,way
+"Площадь Мясникова",wikidata,M,Q1390561,way
 "Разинская улица",wikidata,M,Q193175,way
 "Разинский переулок",wikidata,M,Q193175,way
 "Стахановская улица",wikidata,M,Q52253,way
