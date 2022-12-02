@@ -1,449 +1,444 @@
 name,source,gender,wikidata,type
-"улица Аладовых",wikidata,+,Q336772;Q3918371,way
-"2-й переулок Розы Люксембург",wikidata,F,Q7231,way
-"Нововиленская улица",wikidata,F,Q444566,way
-"переулок Неждановой",wikidata,F,Q2450734,way
-"переулок Софьи Ковалевской",wikidata,F,Q184535,way
-"улица Алоизы Пашкевич",wikidata,F,Q2986655,way
-"улица Барамзиной",wikidata,F,Q2361329,way
-"улица Веры Слуцкой",wikidata,F,Q1969808,way
-"улица Веры Хоружей",wikidata,F,Q889485,way
-"улица Евфросиньи Полоцкой",wikidata,F,Q257706,way
-"улица Зои Космодемьянской",wikidata,F,Q229062,way
-"улица Клары Цеткин",wikidata,F,Q75823,way
-"улица Констанции Буйло",wikidata,F,Q800005,way
-"улица Крупской",wikidata,F,Q215637,way
-"улица Кульман",wikidata,F,Q3740649,way
-"улица Леси Украинки",wikidata,F,Q298033,way
-"улица Лизы Чайкиной",wikidata,F,Q335737,way
-"улица Мельникайте",wikidata,F,Q2423831,way
-"улица Неждановой",wikidata,F,Q2450734,way
-"улица Осипенко",wikidata,F,Q444566,way
-"улица Розы Люксембург",wikidata,F,Q7231,way
-"1-й переулок Артёма",wikidata,M,Q1332918,way
-"1-й переулок Багратиона",wikidata,M,Q239260,way
-"1-й переулок Васнецова",wikidata,M,Q204138,way
-"1-й переулок Грекова",wikidata,M,Q1313237,way
-"1-й переулок Жуковского",wikidata,M,Q271956,way
-"1-й переулок Зубачёва",wikidata,M,Q4194263,way
-"1-й переулок Кольцова",wikidata,M,Q444969,way
-"1-й переулок Крыловича",wikidata,M,Q13033138,way
-"1-й переулок Менделеева",wikidata,M,Q9106,way
-"1-й переулок Можайского",wikidata,M,Q365820,way
-"1-й переулок Нестерова",wikidata,M,Q966524,way
-"1-й переулок Никитина",wikidata,M,Q1392686,way
-"1-й переулок Окрестина",wikidata,M,Q4332700,way
-"1-й переулок Пирогова",wikidata,M,Q315266,way
-"1-й переулок Стасова",wikidata,M,Q464192,way
-"1-й переулок Талаша",wikidata,M,Q278398,way
-"1-й переулок Тимирязева",wikidata,M,Q172326,way
-"1-й переулок Тимошенко",wikidata,M,Q191702,way
-"1-й переулок Фомина",wikidata,M,Q443425,way
-"1-й переулок Франциска Скорины",wikidata,M,Q435320,way
-"1-й переулок Халтурина",wikidata,M,Q1755972,way
-"1-й переулок Чернышевского",wikidata,M,Q192331,way
-"1-й переулок Щедрина",wikidata,M,Q211785,way
-"1-й проезд Артёма",wikidata,M,Q1332918,way
-"2-й переулок Багратиона",wikidata,M,Q239260,way
-"2-й переулок Васнецова",wikidata,M,Q204138,way
-"2-й переулок Глаголева",wikidata,M,Q2665271,way
-"2-й переулок Грекова",wikidata,M,Q1313237,way
-"2-й переулок Жуковского",wikidata,M,Q271956,way
-"2-й переулок Зубачёва",wikidata,M,Q4194263,way
-"2-й переулок Кольцова",wikidata,M,Q444969,way
-"2-й переулок Крыловича",wikidata,M,Q13033138,way
-"2-й переулок Можайского",wikidata,M,Q365820,way
-"2-й переулок Нестерова",wikidata,M,Q966524,way
-"2-й переулок Никитина",wikidata,M,Q1392686,way
-"2-й переулок Пирогова",wikidata,M,Q315266,way
-"2-й переулок Собинова",wikidata,M,Q1397007,way
-"2-й переулок Тимошенко",wikidata,M,Q191702,way
-"2-й переулок Фомина",wikidata,M,Q443425,way
-"2-й переулок Халтурина",wikidata,M,Q1755972,way
-"2-й переулок Щедрина",wikidata,M,Q211785,way
-"2-я улица Пржевальского",wikidata,M,Q192442,way
-"2-я улица Щорса",wikidata,M,Q1990730,way
-"3-й переулок Глаголева",wikidata,M,Q2665271,way
-"3-й переулок Зубачёва",wikidata,M,Q4194263,way
-"3-й переулок Кольцова",wikidata,M,Q444969,way
-"3-й переулок Можайского",wikidata,M,Q365820,way
-"3-й переулок Щедрина",wikidata,M,Q211785,way
-"3-я улица Щорса",wikidata,M,Q1990730,way
-"4-й переулок Кольцова",wikidata,M,Q444969,way
-"4-я улица Щорса",wikidata,M,Q1990730,way
-"5-я улица Щорса",wikidata,M,Q1990730,way
-"Гоголевская улица",wikidata,M,Q43718,way
-"Домашевская улица",wikidata,M,Q704477,way
-"Площадь Змитрока Бядули",wikidata,M,Q2662384,way
-"Площадь Мясникова",wikidata,M,Q1390561,way
-"Разинская улица",wikidata,M,Q193175,way
-"Разинский переулок",wikidata,M,Q193175,way
-"Стахановская улица",wikidata,M,Q52253,way
-"Стахановский переулок",wikidata,M,Q52253,way
-"Сухая улица",wikidata,M,Q46126,way
-"бульвар Мулявина",wikidata,M,Q2634627,way
-"бульвар Шевченко",wikidata,M,Q134958,way
-"переулок Айвазовского",wikidata,M,Q181568,way
-"переулок Академика Вышелесского",wikidata,M,Q3918191,way
-"переулок Академика Жебрака",wikidata,M,Q3917387,way
-"переулок Асаналиева",wikidata,M,Q4071131,way
-"переулок Бехтерева",wikidata,M,Q221723,way
-"переулок Болотникова",wikidata,M,Q1524384,way
-"переулок Бумажкова",wikidata,M,Q4099119,way
-"переулок Вавилова",wikidata,M,Q324968,way
-"переулок Ватутина",wikidata,M,Q299364,way
-"переулок Воронянского",wikidata,M,Q16658480,way
-"переулок Достоевского",wikidata,M,Q991,way
-"переулок Ермака",wikidata,M,Q3918576,way
-"переулок Игната Буйницкого",wikidata,M,Q3920148,way
-"переулок Кабушкина",wikidata,M,Q3917386,way
-"переулок Калинина",wikidata,M,Q229828,way
-"переулок Клумова",wikidata,M,Q13033647,way
-"переулок Козлова",wikidata,M,Q3917253,way
-"переулок Колесникова",wikidata,M,Q12111598,way
-"переулок Корженевского",wikidata,M,Q24263066,way
-"переулок Кузьмы Минина",wikidata,M,Q469785,way
-"переулок Кузьмы Чорного",wikidata,M,Q2662343,way
-"переулок Лазо",wikidata,M,Q2373753,way
-"переулок Ломоносова",wikidata,M,Q58720,way
-"переулок Максима Богдановича",wikidata,M,Q471207,way
-"переулок Маяковского",wikidata,M,Q132964,way
-"переулок Москвина",wikidata,M,Q1972072,way
-"переулок Некрасова",wikidata,M,Q208003,way
-"переулок Одоевского",wikidata,M,Q952777,way
-"переулок Павлова",wikidata,M,Q42985,way
-"переулок Ползунова",wikidata,M,Q1079586,way
-"переулок Собинова",wikidata,M,Q1397007,way
-"переулок Солтыса",wikidata,M,Q4428509,way
-"переулок Стебенёва",wikidata,M,Q16448281,way
-"переулок Столетова",wikidata,M,Q983607,way
-"переулок Сурикова",wikidata,M,Q110228,way
-"переулок Талаша",wikidata,M,Q278398,way
-"переулок Толстого",wikidata,M,Q7243,way
-"переулок Ушакова",wikidata,M,Q314339,way
-"переулок Фабрициуса",wikidata,M,Q126821,way
-"переулок Федотова",wikidata,M,Q248597,way
-"переулок Чайковского",wikidata,M,Q7315,way
-"переулок Червякова",wikidata,M,Q2991206,way
-"переулок Щербакова",wikidata,M,Q1976769,way
-"переулок Якуба Коласа",wikidata,M,Q483709,way
-"площадь Ванеева",wikidata,M,Q4103343,way
-"площадь Казинца",wikidata,M,Q4208328,way
-"площадь Калинина",wikidata,M,Q229828,way
-"площадь Мясникова",wikidata,M,Q1390561,way
-"площадь Якуба Коласа",wikidata,M,Q483709,relation
-"проезд Бумажкова",wikidata,M,Q4099119,way
-"проезд Ватутина",wikidata,M,Q299364,way
-"проезд Веснина",wikidata,M,Q4109521,way
-"проезд Голодеда",wikidata,M,Q2663685,way
-"проезд Кольцова",wikidata,M,Q444969,way
-"проезд Котовского",wikidata,M,Q734839,way
-"проезд Масюковщина",wikidata,M,Q2043806,way
-"проезд Столетова",wikidata,M,Q983607,way
-"проезд Сурикова",wikidata,M,Q110228,way
-"проезд Чайковского",wikidata,M,Q7315,way
-"проезд Чекалина",wikidata,M,Q2370173,way
-"проспект Дзержинского",wikidata,M,Q188570,way
-"проспект Жукова",wikidata,M,Q124617,way
-"проспект Любимова",wikidata,M,Q4271507,way
-"проспект Машерова",wikidata,M,Q704477,way
-"проспект Пушкина",wikidata,M,Q7200,way
-"проспект Рокоссовского",wikidata,M,Q40482,way
-"улица Авакяна",wikidata,M,Q4055296,way
-"улица Адама Шемеша",wikidata,M,Q3917990,way
-"улица Азгура",wikidata,M,Q2662326,way
-"улица Азизова",wikidata,M,Q4058328,way
-"улица Айвазовского",wikidata,M,Q181568,way
-"улица Академика Высоцкого",wikidata,M,Q3918666,way
-"улица Академика Вышелесского",wikidata,M,Q3918191,way
-"улица Академика Жебрака",wikidata,M,Q3917387,way
-"улица Академика Карского",wikidata,M,Q2632584,way
-"улица Академика Купревича",wikidata,M,Q3920560,way
-"улица Академика Фёдорова",wikidata,M,Q1972175,way
-"улица Алеся Бачило",wikidata,M,Q2791926,way
-"улица Алеся Гаруна",wikidata,M,Q2368365,way
-"улица Алибегова",wikidata,M,Q17043834,way
-"улица Аннаева",wikidata,M,Q4066570,way
-"улица Артёма",wikidata,M,Q1332918,way
-"улица Архитектора Заборского",wikidata,M,Q13374,way
-"улица Асаналиева",wikidata,M,Q4071131,way
-"улица Ауэзова",wikidata,M,Q557348,way
-"улица Бабушкина",wikidata,M,Q732269,way
-"улица Багратиона",wikidata,M,Q239260,way
-"улица Белецкого",wikidata,M,Q15064412,way
-"улица Белинского",wikidata,M,Q192885,way
-"улица Бельского",wikidata,M,Q3920167,way
-"улица Беляева",wikidata,M,Q4083474,way
-"улица Берсона",wikidata,M,Q13032790,way
-"улица Бехтерева",wikidata,M,Q221723,way
-"улица Бирюзова",wikidata,M,Q48055,way
-"улица Богдана Хмельницкого",wikidata,M,Q203808,way
-"улица Болеслава Берута",wikidata,M,Q55832,way
-"улица Болотникова",wikidata,M,Q1524384,way
-"улица Бровикова",wikidata,M,Q2062187,way
-"улица Бронислава Тарашкевича",wikidata,M,Q2150090,way
-"улица Будённого",wikidata,M,Q242474,way
-"улица Бумажкова",wikidata,M,Q4099119,way
-"улица Бурдейного",wikidata,M,Q4099462,way
-"улица Вавилова",wikidata,M,Q324968,way
-"улица Валентия Ваньковича",wikidata,M,Q1795226,way
-"улица Ванеева",wikidata,M,Q4103343,way
-"улица Варвашени",wikidata,M,Q17043978,way
-"улица Васнецова",wikidata,M,Q204138,way
-"улица Ватутина",wikidata,M,Q299364,way
-"улица Ваупшасова",wikidata,M,Q4105346,way
-"улица Верещагина",wikidata,M,Q127017,way
-"улица Владислава Голубка",wikidata,M,Q3920249,way
-"улица Владислава Сырокомли",wikidata,M,Q472576,way
-"улица Водолажского",wikidata,M,Q15065030,way
-"улица Володарского",wikidata,M,Q739358,way
-"улица Володько",wikidata,M,Q6551706,way
-"улица Волоха",wikidata,M,Q4124004,way
-"улица Воронянского",wikidata,M,Q16658480,way
-"улица Всеволода Игнатовского",wikidata,M,Q2067587,way
-"улица Выготского",wikidata,M,Q180819,way
-"улица Гагарина",wikidata,M,Q7327,way
-"улица Гамарника",wikidata,M,Q723290,way
-"улица Гастелло",wikidata,M,Q2997156,way
-"улица Гая",wikidata,M,Q1491221,way
-"улица Гебелева",wikidata,M,Q4134631,way
-"улица Генерала Антонова",wikidata,M,Q4067348,way
-"улица Герцена",wikidata,M,Q201221,way
-"улица Гикало",wikidata,M,Q983512,way
-"улица Гинтовта",wikidata,M,Q4138665,way
-"улица Глаголева",wikidata,M,Q2665271,way
-"улица Голодеда",wikidata,M,Q2663685,way
-"улица Голубева",wikidata,M,Q23655877,way
-"улица Горбатова",wikidata,M,Q2833725,way
-"улица Горовца",wikidata,M,Q4144798,way
-"улица Грекова",wikidata,M,Q1313237,way
-"улица Грибоедова",wikidata,M,Q15001,way
-"улица Григория Ширмы",wikidata,M,Q3917279,way
-"улица Грицевца",wikidata,M,Q2349898,way
-"улица Громова",wikidata,M,Q4150184,way
-"улица Гурского",wikidata,M,Q13028072,way
-"улица Гуртьева",wikidata,M,Q3229795,way
-"улица Гусовского",wikidata,M,Q1376763,way
-"улица Данилы Сердича",wikidata,M,Q12787307,way
-"улица Даумана",wikidata,M,Q1190385,way
-"улица Дежнёва",wikidata,M,Q333210,way
-"улица Дзержинского",wikidata,M,Q188570,way
-"улица Димитрова",wikidata,M,Q155074,way
-"улица Достоевского",wikidata,M,Q991,way
-"улица Дунина-Марцинкевича",wikidata,M,Q3008609,way
-"улица Ежи Гедройца",wikidata,M,Q723328,way
-"улица Ермака",wikidata,M,Q3918576,way
-"улица Жилуновича",wikidata,M,Q475004,way
-"улица Жуковского",wikidata,M,Q271956,way
-"улица Заслонова",wikidata,M,Q4187915,way
-"улица Змитрока Бядули",wikidata,M,Q2662384,way
-"улица Зубачёва",wikidata,M,Q4194263,way
-"улица Ивана Шамякина",wikidata,M,Q2988232,way
-"улица Игната Буйницкого",wikidata,M,Q3920148,way
-"улица Игната Домейко",wikidata,M,Q458245,way
-"улица Игнатенко",wikidata,M,Q4197404,way
-"улица Иосифа Гошкевича",wikidata,M,Q2493535,way
-"улица Иосифа Жиновича",wikidata,M,Q2813883,way
-"улица Искалиева",wikidata,M,Q16436111,way
-"улица Кабушкина",wikidata,M,Q3917386,way
-"улица Казинца",wikidata,M,Q4208328,way
-"улица Калинина",wikidata,M,Q229828,way
-"улица Калиновского",wikidata,M,Q710236,way
-"улица Карбышева",wikidata,M,Q21797,way
-"улица Карвата",wikidata,M,Q2620708,way
-"улица Карла Либкнехта",wikidata,M,Q75886,way
-"улица Карла Маркса",wikidata,M,Q9061,way
-"улица Карпова",wikidata,M,Q4215804,way
-"улица Каруся Каганца",wikidata,M,Q2068392,way
-"улица Кедышко",wikidata,M,Q15068555,way
-"улица Киреева",wikidata,M,Q24357735,way
-"улица Киреенко",wikidata,M,Q11226570,way
-"улица Кирилла Туровского",wikidata,M,Q45087,way
-"улица Кирова",wikidata,M,Q207682,way
-"улица Киселёва",wikidata,M,Q2991182,way
-"улица Клумова",wikidata,M,Q13033647,way
-"улица Кнорина",wikidata,M,Q2987264,way
-"улица Ковалёва",wikidata,M,Q16664307,way
-"улица Козлова",wikidata,M,Q3917253,way
-"улица Колесникова",wikidata,M,Q12111598,way
-"улица Кольцова",wikidata,M,Q444969,way
-"улица Кондрата Крапивы",wikidata,M,Q2633494,way
-"улица Коржа",wikidata,M,Q4232980,way
-"улица Корженевского",wikidata,M,Q24263066,way
-"улица Корицкого",wikidata,M,Q4215094,way
-"улица Короленко",wikidata,M,Q335064,way
-"улица Короля",wikidata,M,Q46126,way
-"улица Корш-Саблина",wikidata,M,Q2024926,way
-"улица Котовского",wikidata,M,Q734839,way
-"улица Крамского",wikidata,M,Q207758,way
-"улица Красина",wikidata,M,Q4237819,way
-"улица Кропоткина",wikidata,M,Q5752,way
-"улица Крыловича",wikidata,M,Q13033138,way
-"улица Кузьмы Минина",wikidata,M,Q469785,way
-"улица Кузьмы Чорного",wikidata,M,Q2662343,way
-"улица Куйбышева",wikidata,M,Q443703,way
-"улица Кулешова",wikidata,M,Q2632843,way
-"улица Кулибина",wikidata,M,Q982211,way
-"улица Куприянова",wikidata,M,Q4247594,way
-"улица Курчатова",wikidata,M,Q185110,way
-"улица Кутузова",wikidata,M,Q185801,way
-"улица Лазарева",wikidata,M,Q186203,way
-"улица Лазо",wikidata,M,Q2373753,way
-"улица Ландера",wikidata,M,Q4253840,way
-"улица Левкова",wikidata,M,Q4256663,way
-"улица Лейтенанта Кижеватова",wikidata,M,Q502271,way
-"улица Ленина",wikidata,M,Q1394,way
-"улица Леонида Беды",wikidata,M,Q1096685,way
-"улица Лермонтова",wikidata,M,Q46599,way
-"улица Лещинского",wikidata,M,Q2855927,way
-"улица Лобанка",wikidata,M,Q4264668,way
-"улица Ломоносова",wikidata,M,Q58720,way
-"улица Лопатина",wikidata,M,Q4266601,way
-"улица Лукьяновича",wikidata,M,Q4269222,way
-"улица Льва Сапеги",wikidata,M,Q727122,way
-"улица Мазурова",wikidata,M,Q773309,way
-"улица Макаёнка",wikidata,M,Q783039,way
-"улица Максима Богдановича",wikidata,M,Q471207,way
-"улица Максима Горецкого",wikidata,M,Q2500903,way
-"улица Максима Танка",wikidata,M,Q2419271,way
-"улица Малинина",wikidata,M,Q2033029,way
-"улица Маневича",wikidata,M,Q4280343,way
-"улица Марата",wikidata,M,Q122290,way
-"улица Маргелова",wikidata,M,Q677432,way
-"улица Матросова",wikidata,M,Q468094,way
-"улица Мачульского",wikidata,M,Q12800387,way
-"улица Маяковского",wikidata,M,Q132964,way
-"улица Мележа",wikidata,M,Q2638610,way
-"улица Менделеева",wikidata,M,Q9106,way
-"улица Микулича",wikidata,M,Q19693070,way
-"улица Мирошниченко",wikidata,M,Q4296263,way
-"улица Михаила Пташука",wikidata,M,Q2001978,way
-"улица Михайлова",wikidata,M,Q15966032,way
-"улица Михася Лынькова",wikidata,M,Q2043806,way
-"улица Михася Чарота",wikidata,M,Q2500853,way
-"улица Мичурина",wikidata,M,Q311499,way
-"улица Можайского",wikidata,M,Q365820,way
-"улица Москвина",wikidata,M,Q1972072,way
-"улица Мясникова",wikidata,M,Q1390561,way
-"улица Наполеона Орды",wikidata,M,Q941622,way
-"улица Нахимова",wikidata,M,Q345365,way
-"улица Некрасова",wikidata,M,Q208003,way
-"улица Некрашевича",wikidata,M,Q2011198,way
-"улица Нестерова",wikidata,M,Q966524,way
-"улица Никитина",wikidata,M,Q1392686,way
-"улица Огарёва",wikidata,M,Q374362,way
-"улица Одоевского",wikidata,M,Q952777,way
-"улица Окрестина",wikidata,M,Q4332700,way
-"улица Олега Кошевого",wikidata,M,Q2623768,way
-"улица Олешева",wikidata,M,Q4333700,way
-"улица Ольшевского",wikidata,M,Q16448138,way
-"улица Омельянюка",wikidata,M,Q17093928,way
-"улица Орджоникидзе",wikidata,M,Q259843,way
-"улица Павла Шпилевского",wikidata,M,Q3920754,way
-"улица Павлова",wikidata,M,Q42985,way
-"улица Павловского",wikidata,M,Q13033259,way
-"улица Панфилова",wikidata,M,Q734851,way
-"улица Папанина",wikidata,M,Q713943,way
-"улица Пархоменко",wikidata,M,Q7218458,way
-"улица Петра Глебки",wikidata,M,Q2579684,way
-"улица Петра Мстиславца",wikidata,M,Q2388431,way
-"улица Петруся Бровки",wikidata,M,Q2991193,way
-"улица Пимена Панченко",wikidata,M,Q2588862,way
-"улица Пирогова",wikidata,M,Q315266,way
-"улица Платонова",wikidata,M,Q4364643,way
-"улица Плеханова",wikidata,M,Q182905,way
-"улица Пожарского",wikidata,M,Q15756,way
-"улица Пономаренко",wikidata,M,Q941748,way
-"улица Пономарёва",wikidata,M,Q4371987,way
-"улица Попова",wikidata,M,Q191799,way
-"улица Пржевальского",wikidata,M,Q192442,way
-"улица Притыцкого",wikidata,M,Q2613208,way
-"улица Пулихова",wikidata,M,Q3919653,way
-"улица Путилова",wikidata,M,Q18397776,way
-"улица Радищева",wikidata,M,Q217470,way
-"улица Рафиева",wikidata,M,Q4391018,way
-"улица Репина",wikidata,M,Q172911,way
-"улица Ромашкина",wikidata,M,Q15089613,way
-"улица Ротмистрова",wikidata,M,Q776856,way
-"улица Руссиянова",wikidata,M,Q4400409,way
-"улица Рыбалко",wikidata,M,Q1332642,way
-"улица Рылеева",wikidata,M,Q49509,way
-"улица Свердлова",wikidata,M,Q298384,way
-"улица Седова",wikidata,M,Q358579,way
-"улица Селицкого",wikidata,M,Q4413828,way
-"улица Семашко",wikidata,M,Q2361443,way
-"улица Серафимовича",wikidata,M,Q734901,way
-"улица Сергея Есенина",wikidata,M,Q31628,way
-"улица Серова",wikidata,M,Q487817,way
-"улица Сеченова",wikidata,M,Q380243,way
-"улица Скрыганова",wikidata,M,Q192450,way
-"улица Славинского",wikidata,M,Q13028190,way
-"улица Смирнова",wikidata,M,Q4424779,way
-"улица Смолячкова",wikidata,M,Q4425153,way
-"улица Собинова",wikidata,M,Q1397007,way
-"улица Солтыса",wikidata,M,Q4428509,way
-"улица Станиславского",wikidata,M,Q49484,way
-"улица Стасова",wikidata,M,Q464192,way
-"улица Стебенёва",wikidata,M,Q16448281,way
-"улица Столетова",wikidata,M,Q983607,way
-"улица Суворова",wikidata,M,Q154232,way
-"улица Судмалиса",wikidata,M,Q1575062,way
-"улица Сурганова",wikidata,M,Q4446457,way
-"улица Сурикова",wikidata,M,Q110228,way
-"улица Талаша",wikidata,M,Q278398,way
-"улица Тарханова",wikidata,M,Q3541232,way
-"улица Тикоцкого",wikidata,M,Q516905,way
-"улица Тимирязева",wikidata,M,Q172326,way
-"улица Тимошенко",wikidata,M,Q191702,way
-"улица Толбухина",wikidata,M,Q48149,way
-"улица Толстого",wikidata,M,Q7243,way
-"улица Туполева",wikidata,M,Q219734,way
-"улица Тургенева",wikidata,M,Q42831,way
-"улица Тухачевского",wikidata,M,Q142141,way
-"улица Тяпинского",wikidata,M,Q2636360,way
-"улица Уборевича",wikidata,M,Q2415172,way
-"улица Ушакова",wikidata,M,Q314339,way
-"улица Фабрициуса",wikidata,M,Q126821,way
-"улица Федотова",wikidata,M,Q248597,way
-"улица Фердинанда Рущица",wikidata,M,Q1392368,way
-"улица Филатова",wikidata,M,Q1396979,way
-"улица Филимонова",wikidata,M,Q22342894,way
-"улица Фогеля",wikidata,M,Q4491282,way
-"улица Фомина",wikidata,M,Q443425,way
-"улица Франциска Скорины",wikidata,M,Q435320,way
-"улица Фроликова",wikidata,M,Q4492875,way
-"улица Фрунзе",wikidata,M,Q191882,way
-"улица Фучика",wikidata,M,Q142059,way
-"улица Халтурина",wikidata,M,Q1755972,way
-"улица Чайковского",wikidata,M,Q7315,way
-"улица Чайлытко",wikidata,M,Q6506810,way
-"улица Чапаева",wikidata,M,Q333236,way
-"улица Чеботарёва",wikidata,M,Q4508080,way
-"улица Чекалина",wikidata,M,Q2370173,way
-"улица Червякова",wikidata,M,Q2991206,way
-"улица Чернышевского",wikidata,M,Q192331,way
-"улица Черняховского",wikidata,M,Q444979,way
-"улица Чигладзе",wikidata,M,Q4515692,way
-"улица Чичерина",wikidata,M,Q313623,way
-"улица Чкалова",wikidata,M,Q498098,way
-"улица Чюрлёниса",wikidata,M,Q297137,way
-"улица Шабловского",wikidata,M,Q4519145,way
-"улица Шаранговича",wikidata,M,Q977669,way
-"улица Шишкина",wikidata,M,Q193064,way
-"улица Щедрина",wikidata,M,Q211785,way
-"улица Щепкина",wikidata,M,Q1377722,way
-"улица Щербакова",wikidata,M,Q1976769,way
-"улица Щорса",wikidata,M,Q1990730,way
-"улица Энгельса",wikidata,M,Q34787,way
-"улица Юрия Семеняко",wikidata,M,Q16739726,way
-"улица Язепа Дроздовича",wikidata,M,Q3920081,way
-"улица Якуба Коласа",wikidata,M,Q483709,way
-"улица Якубова",wikidata,M,Q4537119,way
-"улица Якубовского",wikidata,M,Q48048,way
-"улица Яна Райниса",wikidata,M,Q348001,way
-"улица Яна Чечота",wikidata,M,Q2623476,way
-"улица Янки Брыля",wikidata,M,Q2618935,way
-"улица Янки Купалы",wikidata,M,Q377,way
-"улица Янки Лучины",wikidata,M,Q2590303,way
-"улица Янки Мавра",wikidata,M,Q2635139,way
-"улица Янковского",wikidata,M,Q3545030,way
+"вуліца Аладавых",wikidata,+,Q336772;Q3918371,way
+"2-і завулак Розы Люксембург",wikidata,F,Q7231,way
+"Нававіленская вуліца",wikidata,F,Q444566,way
+"вуліца Алаізы Пашкевіч",wikidata,F,Q2986655,way
+"вуліца Асіпенкі",wikidata,F,Q444566,way
+"вуліца Барамзіной",wikidata,F,Q2361329,way
+"вуліца Веры Слуцкай",wikidata,F,Q1969808,way
+"вуліца Веры Харужай",wikidata,F,Q889485,way
+"вуліца Еўфрасінні Полацкай",wikidata,F,Q257706,way
+"вуліца Зоі Касмадзям’янскай",wikidata,F,Q229062,way
+"вуліца Канстанцыі Буйло",wikidata,F,Q800005,way
+"вуліца Клары Цэткін",wikidata,F,Q75823,way
+"вуліца Крупскай",wikidata,F,Q215637,way
+"вуліца Кульман",wikidata,F,Q3740649,way
+"вуліца Лесі Украінкі",wikidata,F,Q298033,way
+"вуліца Лізы Чайкінай",wikidata,F,Q335737,way
+"вуліца Мельнікайтэ",wikidata,F,Q2423831,way
+"вуліца Няжданавай",wikidata,F,Q2450734,way
+"вуліца Розы Люксембург",wikidata,F,Q7231,way
+"завулак Няжданавай",wikidata,F,Q2450734,way
+"завулак Соф’і Кавалеўскай",wikidata,F,Q184535,way
+"1-ы завулак Акрэсціна",wikidata,M,Q4332700,way
+"1-ы завулак Арцёма",wikidata,M,Q1332918,way
+"1-ы завулак Баграціёна",wikidata,M,Q239260,way
+"1-ы завулак Васняцова",wikidata,M,Q204138,way
+"1-ы завулак Грэкава",wikidata,M,Q1313237,way
+"1-ы завулак Жукоўскага",wikidata,M,Q271956,way
+"1-ы завулак Зубачова",wikidata,M,Q4194263,way
+"1-ы завулак Кальцова",wikidata,M,Q444969,way
+"1-ы завулак Крыловіча",wikidata,M,Q13033138,way
+"1-ы завулак Мажайскага",wikidata,M,Q365820,way
+"1-ы завулак Мендзялеева",wikidata,M,Q9106,way
+"1-ы завулак Несцерава",wikidata,M,Q966524,way
+"1-ы завулак Нікіціна",wikidata,M,Q1392686,way
+"1-ы завулак Пірагова",wikidata,M,Q315266,way
+"1-ы завулак Стасава",wikidata,M,Q464192,way
+"1-ы завулак Талаша",wikidata,M,Q278398,way
+"1-ы завулак Фаміна",wikidata,M,Q443425,way
+"1-ы завулак Францыска Скарыны",wikidata,M,Q435320,way
+"1-ы завулак Халтурына",wikidata,M,Q1755972,way
+"1-ы завулак Цімашэнкі",wikidata,M,Q191702,way
+"1-ы завулак Ціміразева",wikidata,M,Q172326,way
+"1-ы завулак Чарнышэўскага",wikidata,M,Q192331,way
+"1-ы завулак Шчадрына",wikidata,M,Q211785,way
+"1-ы праезд Арцёма",wikidata,M,Q1332918,way
+"2-я вуліца Пржавальскага",wikidata,M,Q192442,way
+"2-я вуліца Шчорса",wikidata,M,Q1990730,way
+"2-і завулак Баграціёна",wikidata,M,Q239260,way
+"2-і завулак Васняцова",wikidata,M,Q204138,way
+"2-і завулак Глаголева",wikidata,M,Q2665271,way
+"2-і завулак Грэкава",wikidata,M,Q1313237,way
+"2-і завулак Жукоўскага",wikidata,M,Q271956,way
+"2-і завулак Зубачова",wikidata,M,Q4194263,way
+"2-і завулак Кальцова",wikidata,M,Q444969,way
+"2-і завулак Крыловіча",wikidata,M,Q13033138,way
+"2-і завулак Мажайскага",wikidata,M,Q365820,way
+"2-і завулак Несцерава",wikidata,M,Q966524,way
+"2-і завулак Нікіціна",wikidata,M,Q1392686,way
+"2-і завулак Пірагова",wikidata,M,Q315266,way
+"2-і завулак Собінава",wikidata,M,Q1397007,way
+"2-і завулак Фаміна",wikidata,M,Q443425,way
+"2-і завулак Халтурына",wikidata,M,Q1755972,way
+"2-і завулак Цімашэнкі",wikidata,M,Q191702,way
+"2-і завулак Шчадрына",wikidata,M,Q211785,way
+"3-я вуліца Шчорса",wikidata,M,Q1990730,way
+"3-і завулак Глаголева",wikidata,M,Q2665271,way
+"3-і завулак Зубачова",wikidata,M,Q4194263,way
+"3-і завулак Кальцова",wikidata,M,Q444969,way
+"3-і завулак Мажайскага",wikidata,M,Q365820,way
+"3-і завулак Шчадрына",wikidata,M,Q211785,way
+"4-ы завулак Кальцова",wikidata,M,Q444969,way
+"4-я вуліца Шчорса",wikidata,M,Q1990730,way
+"5-я вуліца Шчорса",wikidata,M,Q1990730,way
+"Гогалеўская вуліца",wikidata,M,Q43718,way
+"Дамашэўская вуліца",wikidata,M,Q704477,way
+"Плошча Змітрака Бядулі",wikidata,M,Q2662384,way
+"Плошча Мяснікова",wikidata,M,Q1390561,way
+"Разінская вуліца",wikidata,M,Q193175,way
+"Разінскі завулак",wikidata,M,Q193175,way
+"Стаханаўская вуліца",wikidata,M,Q52253,way
+"Стаханаўскі завулак",wikidata,M,Q52253,way
+"Сухая вуліца",wikidata,M,Q46126,way
+"бульвар Мулявіна",wikidata,M,Q2634627,way
+"бульвар Шаўчэнкі",wikidata,M,Q134958,way
+"вуліца Івана Шамякіна",wikidata,M,Q2988232,way
+"вуліца Ігната Буйніцкага",wikidata,M,Q3920148,way
+"вуліца Ігната Дамейкі",wikidata,M,Q458245,way
+"вуліца Ігнаценкі",wikidata,M,Q4197404,way
+"вуліца Іосіфа Гашкевіча",wikidata,M,Q2493535,way
+"вуліца Іосіфа Жыновіча",wikidata,M,Q2813883,way
+"вуліца Іскаліева",wikidata,M,Q16436111,way
+"вуліца Ўладзіслава Сыракомлі",wikidata,M,Q472576,way
+"вуліца Авакяна",wikidata,M,Q4055296,way
+"вуліца Агарова",wikidata,M,Q374362,way
+"вуліца Адама Шэмеша",wikidata,M,Q3917990,way
+"вуліца Адоеўскага",wikidata,M,Q952777,way
+"вуліца Азгура",wikidata,M,Q2662326,way
+"вуліца Азізава",wikidata,M,Q4058328,way
+"вуліца Айвазоўскага",wikidata,M,Q181568,way
+"вуліца Акадэміка Высоцкага",wikidata,M,Q3918666,way
+"вуліца Акадэміка Вышалескага",wikidata,M,Q3918191,way
+"вуліца Акадэміка Жэбрака",wikidata,M,Q3917387,way
+"вуліца Акадэміка Карскага",wikidata,M,Q2632584,way
+"вуліца Акадэміка Купрэвіча",wikidata,M,Q3920560,way
+"вуліца Акадэміка Фёдарава",wikidata,M,Q1972175,way
+"вуліца Акрэсціна",wikidata,M,Q4332700,way
+"вуліца Алега Кашавога",wikidata,M,Q2623768,way
+"вуліца Алеся Бачылы",wikidata,M,Q2791926,way
+"вуліца Алеся Гаруна",wikidata,M,Q2368365,way
+"вуліца Алешава",wikidata,M,Q4333700,way
+"вуліца Альшэўскага",wikidata,M,Q16448138,way
+"вуліца Алібегава",wikidata,M,Q17043834,way
+"вуліца Амельянюка",wikidata,M,Q17093928,way
+"вуліца Анаева",wikidata,M,Q4066570,way
+"вуліца Арджанікідзэ",wikidata,M,Q259843,way
+"вуліца Архітэктара Заборскага",wikidata,M,Q13374,way
+"вуліца Арцёма",wikidata,M,Q1332918,way
+"вуліца Асаналіева",wikidata,M,Q4071131,way
+"вуліца Аўэзава",wikidata,M,Q557348,way
+"вуліца Бабушкіна",wikidata,M,Q732269,way
+"вуліца Багдана Хмяльніцкага",wikidata,M,Q203808,way
+"вуліца Баграціёна",wikidata,M,Q239260,way
+"вуліца Балотнікава",wikidata,M,Q1524384,way
+"вуліца Баляслава Берута",wikidata,M,Q55832,way
+"вуліца Бельскага",wikidata,M,Q3920167,way
+"вуліца Берсана",wikidata,M,Q13032790,way
+"вуліца Бехцерава",wikidata,M,Q221723,way
+"вуліца Браніслава Тарашкевіча",wikidata,M,Q2150090,way
+"вуліца Бровікава",wikidata,M,Q2062187,way
+"вуліца Будзённага",wikidata,M,Q242474,way
+"вуліца Бумажкова",wikidata,M,Q4099119,way
+"вуліца Бурдзейнага",wikidata,M,Q4099462,way
+"вуліца Бялецкага",wikidata,M,Q15064412,way
+"вуліца Бяляева",wikidata,M,Q4083474,way
+"вуліца Бялінскага",wikidata,M,Q192885,way
+"вуліца Бірузова",wikidata,M,Q48055,way
+"вуліца Вавілава",wikidata,M,Q324968,way
+"вуліца Вадалажскага",wikidata,M,Q15065030,way
+"вуліца Валадарскага",wikidata,M,Q739358,way
+"вуліца Валадзько",wikidata,M,Q6551706,way
+"вуліца Валенція Ваньковіча",wikidata,M,Q1795226,way
+"вуліца Ванеева",wikidata,M,Q4103343,way
+"вуліца Варанянскага",wikidata,M,Q16658480,way
+"вуліца Варвашэні",wikidata,M,Q17043978,way
+"вуліца Васняцова",wikidata,M,Q204138,way
+"вуліца Ватуціна",wikidata,M,Q299364,way
+"вуліца Ваўпшасава",wikidata,M,Q4105346,way
+"вуліца Верашчагіна",wikidata,M,Q127017,way
+"вуліца Волаха",wikidata,M,Q4124004,way
+"вуліца Выгоцкага",wikidata,M,Q180819,way
+"вуліца Гагарына",wikidata,M,Q7327,way
+"вуліца Галадзеда",wikidata,M,Q2663685,way
+"вуліца Гамарніка",wikidata,M,Q723290,way
+"вуліца Гараўца",wikidata,M,Q4144798,way
+"вуліца Гарбатава",wikidata,M,Q2833725,way
+"вуліца Гастэлы",wikidata,M,Q2997156,way
+"вуліца Гая",wikidata,M,Q1491221,way
+"вуліца Гебелева",wikidata,M,Q4134631,way
+"вуліца Генерала Антонава",wikidata,M,Q4067348,way
+"вуліца Герцэна",wikidata,M,Q201221,way
+"вуліца Глаголева",wikidata,M,Q2665271,way
+"вуліца Голубева",wikidata,M,Q23655877,way
+"вуліца Громава",wikidata,M,Q4150184,way
+"вуліца Грыбаедава",wikidata,M,Q15001,way
+"вуліца Грыцаўца",wikidata,M,Q2349898,way
+"вуліца Грэкава",wikidata,M,Q1313237,way
+"вуліца Гурскага",wikidata,M,Q13028072,way
+"вуліца Гурцьева",wikidata,M,Q3229795,way
+"вуліца Гусоўскага",wikidata,M,Q1376763,way
+"вуліца Гікалы",wikidata,M,Q983512,way
+"вуліца Гінтаўта",wikidata,M,Q4138665,way
+"вуліца Данілы Сердзіча",wikidata,M,Q12787307,way
+"вуліца Дастаеўскага",wikidata,M,Q991,way
+"вуліца Даўмана",wikidata,M,Q1190385,way
+"вуліца Дзяжнёва",wikidata,M,Q333210,way
+"вуліца Дзяржынскага",wikidata,M,Q188570,way
+"вуліца Дзімітрава",wikidata,M,Q155074,way
+"вуліца Дуніна-Марцінкевіча",wikidata,M,Q3008609,way
+"вуліца Ежы Гедройца",wikidata,M,Q723328,way
+"вуліца Ермака",wikidata,M,Q3918576,way
+"вуліца Жукоўскага",wikidata,M,Q271956,way
+"вуліца Жылуновіча",wikidata,M,Q475004,way
+"вуліца Заслонава",wikidata,M,Q4187915,way
+"вуліца Змітрака Бядулі",wikidata,M,Q2662384,way
+"вуліца Зубачова",wikidata,M,Q4194263,way
+"вуліца Кабушкіна",wikidata,M,Q3917386,way
+"вуліца Кавалёва",wikidata,M,Q16664307,way
+"вуліца Казлова",wikidata,M,Q3917253,way
+"вуліца Казінца",wikidata,M,Q4208328,relation+way
+"вуліца Калеснікава",wikidata,M,Q12111598,way
+"вуліца Кальцова",wikidata,M,Q444969,way
+"вуліца Каліноўскага",wikidata,M,Q710236,way
+"вуліца Калініна",wikidata,M,Q229828,way
+"вуліца Кандрата Крапівы",wikidata,M,Q2633494,way
+"вуліца Караленкі",wikidata,M,Q335064,way
+"вуліца Караля",wikidata,M,Q46126,way
+"вуліца Карбышава",wikidata,M,Q21797,way
+"вуліца Карвата",wikidata,M,Q2620708,way
+"вуліца Каржа",wikidata,M,Q4232980,way
+"вуліца Карла Лібкнехта",wikidata,M,Q75886,way
+"вуліца Карла Маркса",wikidata,M,Q9061,way
+"вуліца Карпава",wikidata,M,Q4215804,way
+"вуліца Каруся Каганца",wikidata,M,Q2068392,way
+"вуліца Карыцкага",wikidata,M,Q4215094,way
+"вуліца Катоўскага",wikidata,M,Q734839,way
+"вуліца Кедышкі",wikidata,M,Q15068555,way
+"вуліца Клумава",wikidata,M,Q13033647,way
+"вуліца Кнорына",wikidata,M,Q2987264,way
+"вуліца Корш-Сабліна",wikidata,M,Q2024926,way
+"вуліца Крамскога",wikidata,M,Q207758,way
+"вуліца Крапоткіна",wikidata,M,Q5752,way
+"вуліца Красіна",wikidata,M,Q4237819,way
+"вуліца Крыловіча",wikidata,M,Q13033138,way
+"вуліца Кузьмы Мініна",wikidata,M,Q469785,way
+"вуліца Кузьмы Чорнага",wikidata,M,Q2662343,way
+"вуліца Куйбышава",wikidata,M,Q443703,way
+"вуліца Куляшова",wikidata,M,Q2632843,way
+"вуліца Кулібіна",wikidata,M,Q982211,way
+"вуліца Купрыянава",wikidata,M,Q4247594,way
+"вуліца Курчатава",wikidata,M,Q185110,way
+"вуліца Кутузава",wikidata,M,Q185801,way
+"вуліца Кірава",wikidata,M,Q207682,way
+"вуліца Кірылы Тураўскага",wikidata,M,Q45087,way
+"вуліца Кірэева",wikidata,M,Q24357735,way
+"вуліца Кірэенкі",wikidata,M,Q11226570,way
+"вуліца Кісялёва",wikidata,M,Q2991182,way
+"вуліца Лабанка",wikidata,M,Q4264668,way
+"вуліца Лазарава",wikidata,M,Q186203,way
+"вуліца Лазо",wikidata,M,Q2373753,way
+"вуліца Ламаносава",wikidata,M,Q58720,way
+"вуліца Лапаціна",wikidata,M,Q4266601,way
+"вуліца Леаніда Бяды",wikidata,M,Q1096685,way
+"вуліца Лейтэнанта Кіжаватава",wikidata,M,Q502271,relation+way
+"вуліца Леніна",wikidata,M,Q1394,way
+"вуліца Лермантава",wikidata,M,Q46599,way
+"вуліца Лук’яновіча",wikidata,M,Q4269222,way
+"вуліца Льва Сапегі",wikidata,M,Q727122,way
+"вуліца Ляшчынскага",wikidata,M,Q2855927,way
+"вуліца Ляўкова",wikidata,M,Q4256663,way
+"вуліца Мажайскага",wikidata,M,Q365820,way
+"вуліца Мазурава",wikidata,M,Q773309,way
+"вуліца Макаёнка",wikidata,M,Q783039,way
+"вуліца Максіма Багдановіча",wikidata,M,Q471207,way
+"вуліца Максіма Гарэцкага",wikidata,M,Q2500903,way
+"вуліца Максіма Танка",wikidata,M,Q2419271,way
+"вуліца Малініна",wikidata,M,Q2033029,way
+"вуліца Маневіча",wikidata,M,Q4280343,way
+"вуліца Марата",wikidata,M,Q122290,way
+"вуліца Маргелава",wikidata,M,Q677432,way
+"вуліца Масквіна",wikidata,M,Q1972072,way
+"вуліца Матросава",wikidata,M,Q468094,way
+"вуліца Мачульскага",wikidata,M,Q12800387,way
+"вуліца Маякоўскага",wikidata,M,Q132964,way
+"вуліца Мележа",wikidata,M,Q2638610,way
+"вуліца Мендзялеева",wikidata,M,Q9106,way
+"вуліца Мяснікова",wikidata,M,Q1390561,way
+"вуліца Мікуліча",wikidata,M,Q19693070,way
+"вуліца Мірашнічэнкі",wikidata,M,Q4296263,way
+"вуліца Міхайлава",wikidata,M,Q15966032,way
+"вуліца Міхася Лынькова",wikidata,M,Q2043806,way
+"вуліца Міхася Чарота",wikidata,M,Q2500853,way
+"вуліца Міхаіла Пташука",wikidata,M,Q2001978,way
+"вуліца Мічурына",wikidata,M,Q311499,way
+"вуліца Нахімава",wikidata,M,Q345365,way
+"вуліца Некрашэвіча",wikidata,M,Q2011198,relation+way
+"вуліца Несцерава",wikidata,M,Q966524,way
+"вуліца Някрасава",wikidata,M,Q208003,way
+"вуліца Нікіціна",wikidata,M,Q1392686,way
+"вуліца Пажарскага",wikidata,M,Q15756,way
+"вуліца Панамарова",wikidata,M,Q4371987,way
+"вуліца Панамарэнкі",wikidata,M,Q941748,way
+"вуліца Панфілава",wikidata,M,Q734851,way
+"вуліца Папаніна",wikidata,M,Q713943,way
+"вуліца Папова",wikidata,M,Q191799,way
+"вуліца Пархоменкі",wikidata,M,Q7218458,way
+"вуліца Паўла Шпілеўскага",wikidata,M,Q3920754,way
+"вуліца Паўлава",wikidata,M,Q42985,way
+"вуліца Паўлоўскага",wikidata,M,Q13033259,way
+"вуліца Платонава",wikidata,M,Q4364643,way
+"вуліца Пляханава",wikidata,M,Q182905,way
+"вуліца Пржавальскага",wikidata,M,Q192442,way
+"вуліца Прытыцкага",wikidata,M,Q2613208,way
+"вуліца Пуліхава",wikidata,M,Q3919653,way
+"вуліца Пуцілава",wikidata,M,Q18397776,way
+"вуліца Пятра Глебкі",wikidata,M,Q2579684,way
+"вуліца Пятра Мсціслаўца",wikidata,M,Q2388431,way
+"вуліца Пятруся Броўкі",wikidata,M,Q2991193,way
+"вуліца Пімена Панчанкі",wikidata,M,Q2588862,way
+"вуліца Пірагова",wikidata,M,Q315266,way
+"вуліца Радзішчава",wikidata,M,Q217470,way
+"вуліца Рамашкіна",wikidata,M,Q15089613,way
+"вуліца Рафіева",wikidata,M,Q4391018,way
+"вуліца Ротмістрава",wikidata,M,Q776856,way
+"вуліца Русіянава",wikidata,M,Q4400409,way
+"вуліца Рыбалкі",wikidata,M,Q1332642,way
+"вуліца Рыгора Шырмы",wikidata,M,Q3917279,way
+"вуліца Рылеева",wikidata,M,Q49509,way
+"вуліца Рэпіна",wikidata,M,Q172911,way
+"вуліца Свярдлова",wikidata,M,Q298384,way
+"вуліца Серафімовіча",wikidata,M,Q734901,way
+"вуліца Сечанава",wikidata,M,Q380243,way
+"вуліца Скрыганава",wikidata,M,Q192450,way
+"вуліца Славінскага",wikidata,M,Q13028190,way
+"вуліца Смалячкова",wikidata,M,Q4425153,way
+"вуліца Смірнова",wikidata,M,Q4424779,way
+"вуліца Собінава",wikidata,M,Q1397007,way
+"вуліца Солтыса",wikidata,M,Q4428509,way
+"вуліца Сталетава",wikidata,M,Q983607,way
+"вуліца Станіслаўскага",wikidata,M,Q49484,way
+"вуліца Стасава",wikidata,M,Q464192,way
+"вуліца Суворава",wikidata,M,Q154232,way
+"вуліца Судмаліса",wikidata,M,Q1575062,way
+"вуліца Сурганава",wikidata,M,Q4446457,way
+"вуліца Сурыкава",wikidata,M,Q110228,way
+"вуліца Сцебянёва",wikidata,M,Q16448281,way
+"вуліца Сядова",wikidata,M,Q358579,way
+"вуліца Сяліцкага",wikidata,M,Q4413828,way
+"вуліца Сямашкі",wikidata,M,Q2361443,way
+"вуліца Сяргея Ясеніна",wikidata,M,Q31628,way
+"вуліца Сярова",wikidata,M,Q487817,way
+"вуліца Талаша",wikidata,M,Q278398,way
+"вуліца Талбухіна",wikidata,M,Q48149,way
+"вуліца Талстога",wikidata,M,Q7243,way
+"вуліца Тарханава",wikidata,M,Q3541232,way
+"вуліца Тупалева",wikidata,M,Q219734,way
+"вуліца Тургенева",wikidata,M,Q42831,way
+"вуліца Тухачэўскага",wikidata,M,Q142141,way
+"вуліца Убарэвіча",wikidata,M,Q2415172,way
+"вуліца Уладзіслава Галубка",wikidata,M,Q3920249,way
+"вуліца Усевалада Ігнатоўскага",wikidata,M,Q2067587,way
+"вуліца Ушакова",wikidata,M,Q314339,way
+"вуліца Фабрыцыуса",wikidata,M,Q126821,way
+"вуліца Фаміна",wikidata,M,Q443425,way
+"вуліца Фердынанда Рушчыца",wikidata,M,Q1392368,way
+"вуліца Фогеля",wikidata,M,Q4491282,way
+"вуліца Францыска Скарыны",wikidata,M,Q435320,way
+"вуліца Фролікава",wikidata,M,Q4492875,way
+"вуліца Фрунзэ",wikidata,M,Q191882,way
+"вуліца Фучыка",wikidata,M,Q142059,way
+"вуліца Фядотава",wikidata,M,Q248597,way
+"вуліца Філатава",wikidata,M,Q1396979,way
+"вуліца Філімонава",wikidata,M,Q22342894,way
+"вуліца Халтурына",wikidata,M,Q1755972,way
+"вуліца Цяпінскага",wikidata,M,Q2636360,way
+"вуліца Цікоцкага",wikidata,M,Q516905,way
+"вуліца Цімашэнкі",wikidata,M,Q191702,way
+"вуліца Ціміразева",wikidata,M,Q172326,way
+"вуліца Чабатарова",wikidata,M,Q4508080,way
+"вуліца Чайкоўскага",wikidata,M,Q7315,way
+"вуліца Чайлыткі",wikidata,M,Q6506810,way
+"вуліца Чакаліна",wikidata,M,Q2370173,way
+"вуліца Чапаева",wikidata,M,Q333236,way
+"вуліца Чарвякова",wikidata,M,Q2991206,way
+"вуліца Чарнышэўскага",wikidata,M,Q192331,way
+"вуліца Чарняхоўскага",wikidata,M,Q444979,way
+"вуліца Чкалава",wikidata,M,Q498098,way
+"вуліца Чурлёніса",wikidata,M,Q297137,way
+"вуліца Чыгладзэ",wikidata,M,Q4515692,way
+"вуліца Чычэрына",wikidata,M,Q313623,way
+"вуліца Шаблоўскага",wikidata,M,Q4519145,way
+"вуліца Шаранговіча",wikidata,M,Q977669,way
+"вуліца Шчадрына",wikidata,M,Q211785,way
+"вуліца Шчарбакова",wikidata,M,Q1976769,way
+"вуліца Шчорса",wikidata,M,Q1990730,way
+"вуліца Шчэпкіна",wikidata,M,Q1377722,way
+"вуліца Шышкіна",wikidata,M,Q193064,way
+"вуліца Энгельса",wikidata,M,Q34787,way
+"вуліца Юрыя Семянякі",wikidata,M,Q16739726,way
+"вуліца Язэпа Драздовіча",wikidata,M,Q3920081,way
+"вуліца Якуба Коласа",wikidata,M,Q483709,way
+"вуліца Якубава",wikidata,M,Q4537119,way
+"вуліца Якубоўскага",wikidata,M,Q48048,way
+"вуліца Яна Райніса",wikidata,M,Q348001,way
+"вуліца Янкоўскага",wikidata,M,Q3545030,way
+"вуліца Янкі Брыля",wikidata,M,Q2618935,way
+"вуліца Янкі Купалы",wikidata,M,Q377,way
+"вуліца Янкі Лучыны",wikidata,M,Q2590303,way
+"вуліца Янкі Маўра",wikidata,M,Q2635139,way
+"завулак Ігната Буйніцкага",wikidata,M,Q3920148,way
+"завулак Адоеўскага",wikidata,M,Q952777,way
+"завулак Айвазоўскага",wikidata,M,Q181568,way
+"завулак Акадэміка Вышалескага",wikidata,M,Q3918191,way
+"завулак Акадэміка Жэбрака",wikidata,M,Q3917387,way
+"завулак Асаналіева",wikidata,M,Q4071131,way
+"завулак Балотнікава",wikidata,M,Q1524384,way
+"завулак Бехцерава",wikidata,M,Q221723,way
+"завулак Бумажкова",wikidata,M,Q4099119,way
+"завулак Вавілава",wikidata,M,Q324968,way
+"завулак Варанянскага",wikidata,M,Q16658480,way
+"завулак Ватуціна",wikidata,M,Q299364,way
+"завулак Дастаеўскага",wikidata,M,Q991,way
+"завулак Ермака",wikidata,M,Q3918576,way
+"завулак Кабушкіна",wikidata,M,Q3917386,way
+"завулак Казлова",wikidata,M,Q3917253,way
+"завулак Калеснікава",wikidata,M,Q12111598,way
+"завулак Калініна",wikidata,M,Q229828,way
+"завулак Каржанеўскага",wikidata,M,Q24263066,way
+"завулак Клумава",wikidata,M,Q13033647,way
+"завулак Кузьмы Мініна",wikidata,M,Q469785,way
+"завулак Кузьмы Чорнага",wikidata,M,Q2662343,way
+"завулак Лазо",wikidata,M,Q2373753,way
+"завулак Ламаносава",wikidata,M,Q58720,way
+"завулак Максіма Багдановіча",wikidata,M,Q471207,way
+"завулак Масквіна",wikidata,M,Q1972072,way
+"завулак Маякоўскага",wikidata,M,Q132964,way
+"завулак Някрасава",wikidata,M,Q208003,way
+"завулак Паўзунова",wikidata,M,Q1079586,way
+"завулак Паўлава",wikidata,M,Q42985,way
+"завулак Собінава",wikidata,M,Q1397007,way
+"завулак Солтыса",wikidata,M,Q4428509,way
+"завулак Сталетава",wikidata,M,Q983607,way
+"завулак Сурыкава",wikidata,M,Q110228,way
+"завулак Сцебянёва",wikidata,M,Q16448281,way
+"завулак Талаша",wikidata,M,Q278398,way
+"завулак Талстога",wikidata,M,Q7243,way
+"завулак Ушакова",wikidata,M,Q314339,way
+"завулак Фабрыцыуса",wikidata,M,Q126821,way
+"завулак Фядотава",wikidata,M,Q248597,way
+"завулак Чайкоўскага",wikidata,M,Q7315,way
+"завулак Чарвякова",wikidata,M,Q2991206,way
+"завулак Шчарбакова",wikidata,M,Q1976769,way
+"завулак Якуба Коласа",wikidata,M,Q483709,way
+"плошча Ванеева",wikidata,M,Q4103343,way
+"плошча Казінца",wikidata,M,Q4208328,way
+"плошча Калініна",wikidata,M,Q229828,way
+"плошча Мяснікова",wikidata,M,Q1390561,way
+"плошча Якуба Коласа",wikidata,M,Q483709,relation
+"праезд Бумажкова",wikidata,M,Q4099119,way
+"праезд Ватуціна",wikidata,M,Q299364,way
+"праезд Весніна",wikidata,M,Q4109521,way
+"праезд Галадзеда",wikidata,M,Q2663685,way
+"праезд Кальцова",wikidata,M,Q444969,way
+"праезд Катоўскага",wikidata,M,Q734839,way
+"праезд Масюкоўшчына",wikidata,M,Q2043806,way
+"праезд Сталетава",wikidata,M,Q983607,way
+"праезд Сурыкава",wikidata,M,Q110228,way
+"праезд Чайкоўскага",wikidata,M,Q7315,way
+"праезд Чакаліна",wikidata,M,Q2370173,way
+"праспект Жукава",wikidata,M,Q124617,way
+"праспект Любімава",wikidata,M,Q4271507,way
+"праспект Машэрава",wikidata,M,Q704477,way
+"праспект Пушкіна",wikidata,M,Q7200,way
+"праспект Ракасоўскага",wikidata,M,Q40482,way
