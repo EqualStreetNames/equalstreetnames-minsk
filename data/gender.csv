@@ -26,17 +26,17 @@ name,source,gender,wikidata,type
 "1-ы завулак Васняцова",wikidata,M,Q204138,way
 "1-ы завулак Грэкава",wikidata,M,Q1313237,way
 "1-ы завулак Жукоўскага",wikidata,M,Q271956,way
-"1-ы завулак Зубачова",wikidata,M,Q4194263,way
+"1-ы завулак Зубачова",wikidata,M,Q4194263,relation
 "1-ы завулак Кальцова",wikidata,M,Q444969,way
 "1-ы завулак Крыловіча",wikidata,M,Q13033138,way
 "1-ы завулак Мажайскага",wikidata,M,Q365820,way
 "1-ы завулак Мендзялеева",wikidata,M,Q9106,way
 "1-ы завулак Несцерава",wikidata,M,Q966524,way
 "1-ы завулак Нікіціна",wikidata,M,Q1392686,way
-"1-ы завулак Пірагова",wikidata,M,Q315266,way
+"1-ы завулак Пірагова",wikidata,M,Q315266,relation
 "1-ы завулак Стасава",wikidata,M,Q464192,way
 "1-ы завулак Талаша",wikidata,M,Q278398,way
-"1-ы завулак Фаміна",wikidata,M,Q443425,way
+"1-ы завулак Фаміна",wikidata,M,Q443425,relation
 "1-ы завулак Францыска Скарыны",wikidata,M,Q435320,way
 "1-ы завулак Халтурына",wikidata,M,Q1755972,way
 "1-ы завулак Цімашэнкі",wikidata,M,Q191702,way
@@ -51,21 +51,21 @@ name,source,gender,wikidata,type
 "2-і завулак Глаголева",wikidata,M,Q2665271,way
 "2-і завулак Грэкава",wikidata,M,Q1313237,way
 "2-і завулак Жукоўскага",wikidata,M,Q271956,way
-"2-і завулак Зубачова",wikidata,M,Q4194263,way
+"2-і завулак Зубачова",wikidata,M,Q4194263,relation
 "2-і завулак Кальцова",wikidata,M,Q444969,way
 "2-і завулак Крыловіча",wikidata,M,Q13033138,way
 "2-і завулак Мажайскага",wikidata,M,Q365820,way
 "2-і завулак Несцерава",wikidata,M,Q966524,way
 "2-і завулак Нікіціна",wikidata,M,Q1392686,way
-"2-і завулак Пірагова",wikidata,M,Q315266,way
+"2-і завулак Пірагова",wikidata,M,Q315266,relation
 "2-і завулак Собінава",wikidata,M,Q1397007,way
-"2-і завулак Фаміна",wikidata,M,Q443425,way
+"2-і завулак Фаміна",wikidata,M,Q443425,relation
 "2-і завулак Халтурына",wikidata,M,Q1755972,way
 "2-і завулак Цімашэнкі",wikidata,M,Q191702,way
 "2-і завулак Шчадрына",wikidata,M,Q211785,way
 "3-я вуліца Шчорса",wikidata,M,Q1990730,way
 "3-і завулак Глаголева",wikidata,M,Q2665271,way
-"3-і завулак Зубачова",wikidata,M,Q4194263,way
+"3-і завулак Зубачова",wikidata,M,Q4194263,relation
 "3-і завулак Кальцова",wikidata,M,Q444969,way
 "3-і завулак Мажайскага",wikidata,M,Q365820,way
 "3-і завулак Шчадрына",wikidata,M,Q211785,way
@@ -116,7 +116,7 @@ name,source,gender,wikidata,type
 "вуліца Арджанікідзэ",wikidata,M,Q259843,way
 "вуліца Архітэктара Заборскага",wikidata,M,Q13374,way
 "вуліца Арцёма",wikidata,M,Q1332918,way
-"вуліца Асаналіева",wikidata,M,Q4071131,way
+"вуліца Асаналіева",wikidata,M,Q4071131,relation
 "вуліца Аўэзава",wikidata,M,Q557348,way
 "вуліца Бабушкіна",wikidata,M,Q732269,way
 "вуліца Багдана Хмяльніцкага",wikidata,M,Q203808,way
@@ -177,13 +177,13 @@ name,source,gender,wikidata,type
 "вуліца Дзяржынскага",wikidata,M,Q188570,way
 "вуліца Дзімітрава",wikidata,M,Q155074,way
 "вуліца Дуніна-Марцінкевіча",wikidata,M,Q3008609,way
-"вуліца Ежы Гедройца",wikidata,M,Q723328,way
+"вуліца Ежы Гедройца",wikidata,M,Q723328,relation
 "вуліца Ермака",wikidata,M,Q3918576,way
 "вуліца Жукоўскага",wikidata,M,Q271956,way
 "вуліца Жылуновіча",wikidata,M,Q475004,way
 "вуліца Заслонава",wikidata,M,Q4187915,way
 "вуліца Змітрака Бядулі",wikidata,M,Q2662384,way
-"вуліца Зубачова",wikidata,M,Q4194263,way
+"вуліца Зубачова",wikidata,M,Q4194263,relation
 "вуліца Кабушкіна",wikidata,M,Q3917386,way
 "вуліца Кавалёва",wikidata,M,Q16664307,way
 "вуліца Казлова",wikidata,M,Q3917253,way
@@ -218,7 +218,7 @@ name,source,gender,wikidata,type
 "вуліца Куляшова",wikidata,M,Q2632843,way
 "вуліца Кулібіна",wikidata,M,Q982211,way
 "вуліца Купрыянава",wikidata,M,Q4247594,way
-"вуліца Курчатава",wikidata,M,Q185110,way
+"вуліца Курчатава",wikidata,M,Q185110,relation
 "вуліца Кутузава",wikidata,M,Q185801,way
 "вуліца Кірава",wikidata,M,Q207682,way
 "вуліца Кірылы Тураўскага",wikidata,M,Q45087,way
@@ -231,7 +231,6 @@ name,source,gender,wikidata,type
 "вуліца Ламаносава",wikidata,M,Q58720,way
 "вуліца Лапаціна",wikidata,M,Q4266601,way
 "вуліца Леаніда Бяды",wikidata,M,Q1096685,way
-"вуліца Лейтэнанта Кіжаватава",wikidata,M,Q502271,relation+way
 "вуліца Леніна",wikidata,M,Q1394,way
 "вуліца Лермантава",wikidata,M,Q46599,way
 "вуліца Лук’яновіча",wikidata,M,Q4269222,way
@@ -287,7 +286,7 @@ name,source,gender,wikidata,type
 "вуліца Пятра Мсціслаўца",wikidata,M,Q2388431,way
 "вуліца Пятруся Броўкі",wikidata,M,Q2991193,way
 "вуліца Пімена Панчанкі",wikidata,M,Q2588862,way
-"вуліца Пірагова",wikidata,M,Q315266,way
+"вуліца Пірагова",wikidata,M,Q315266,relation
 "вуліца Радзішчава",wikidata,M,Q217470,way
 "вуліца Рамашкіна",wikidata,M,Q15089613,way
 "вуліца Рафіева",wikidata,M,Q4391018,way
@@ -313,12 +312,12 @@ name,source,gender,wikidata,type
 "вуліца Судмаліса",wikidata,M,Q1575062,way
 "вуліца Сурганава",wikidata,M,Q4446457,way
 "вуліца Сурыкава",wikidata,M,Q110228,way
-"вуліца Сцебянёва",wikidata,M,Q16448281,way
+"вуліца Сцебянёва",wikidata,M,Q16448281,relation
 "вуліца Сядова",wikidata,M,Q358579,way
 "вуліца Сяліцкага",wikidata,M,Q4413828,way
-"вуліца Сямашкі",wikidata,M,Q2361443,way
+"вуліца Сямашкі",wikidata,M,Q2361443,relation
 "вуліца Сяргея Ясеніна",wikidata,M,Q31628,way
-"вуліца Сярова",wikidata,M,Q487817,way
+"вуліца Сярова",wikidata,M,Q487817,relation
 "вуліца Талаша",wikidata,M,Q278398,way
 "вуліца Талбухіна",wikidata,M,Q48149,way
 "вуліца Талстога",wikidata,M,Q7243,way
@@ -331,7 +330,7 @@ name,source,gender,wikidata,type
 "вуліца Усевалада Ігнатоўскага",wikidata,M,Q2067587,way
 "вуліца Ушакова",wikidata,M,Q314339,way
 "вуліца Фабрыцыуса",wikidata,M,Q126821,way
-"вуліца Фаміна",wikidata,M,Q443425,way
+"вуліца Фаміна",wikidata,M,Q443425,relation
 "вуліца Фердынанда Рушчыца",wikidata,M,Q1392368,way
 "вуліца Фогеля",wikidata,M,Q4491282,way
 "вуліца Францыска Скарыны",wikidata,M,Q435320,way
@@ -355,10 +354,9 @@ name,source,gender,wikidata,type
 "вуліца Чарнышэўскага",wikidata,M,Q192331,way
 "вуліца Чарняхоўскага",wikidata,M,Q444979,way
 "вуліца Чкалава",wikidata,M,Q498098,way
-"вуліца Чурлёніса",wikidata,M,Q297137,way
 "вуліца Чыгладзэ",wikidata,M,Q4515692,way
 "вуліца Чычэрына",wikidata,M,Q313623,way
-"вуліца Шаблоўскага",wikidata,M,Q4519145,way
+"вуліца Шаблоўскага",wikidata,M,Q4519145,relation
 "вуліца Шаранговіча",wikidata,M,Q977669,way
 "вуліца Шчадрына",wikidata,M,Q211785,way
 "вуліца Шчарбакова",wikidata,M,Q1976769,way
@@ -382,7 +380,7 @@ name,source,gender,wikidata,type
 "завулак Айвазоўскага",wikidata,M,Q181568,way
 "завулак Акадэміка Вышалескага",wikidata,M,Q3918191,way
 "завулак Акадэміка Жэбрака",wikidata,M,Q3917387,way
-"завулак Асаналіева",wikidata,M,Q4071131,way
+"завулак Асаналіева",wikidata,M,Q4071131,relation
 "завулак Балотнікава",wikidata,M,Q1524384,way
 "завулак Бехцерава",wikidata,M,Q221723,way
 "завулак Бумажкова",wikidata,M,Q4099119,way
@@ -395,7 +393,7 @@ name,source,gender,wikidata,type
 "завулак Казлова",wikidata,M,Q3917253,way
 "завулак Калеснікава",wikidata,M,Q12111598,way
 "завулак Калініна",wikidata,M,Q229828,way
-"завулак Каржанеўскага",wikidata,M,Q24263066,way
+"завулак Каржанеўскага",wikidata,M,Q24263066,relation+way
 "завулак Клумава",wikidata,M,Q13033647,way
 "завулак Кузьмы Мініна",wikidata,M,Q469785,way
 "завулак Кузьмы Чорнага",wikidata,M,Q2662343,way
@@ -422,7 +420,7 @@ name,source,gender,wikidata,type
 "завулак Шчарбакова",wikidata,M,Q1976769,way
 "завулак Якуба Коласа",wikidata,M,Q483709,way
 "плошча Ванеева",wikidata,M,Q4103343,way
-"плошча Казінца",wikidata,M,Q4208328,way
+"плошча Казінца",wikidata,M,Q4208328,relation
 "плошча Калініна",wikidata,M,Q229828,way
 "плошча Мяснікова",wikidata,M,Q1390561,way
 "плошча Якуба Коласа",wikidata,M,Q483709,relation
