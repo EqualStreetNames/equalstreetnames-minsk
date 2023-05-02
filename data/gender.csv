@@ -116,7 +116,7 @@ name,source,gender,wikidata,type
 "вуліца Арджанікідзэ",wikidata,M,Q259843,way
 "вуліца Архітэктара Заборскага",wikidata,M,Q13374,way
 "вуліца Арцёма",wikidata,M,Q1332918,way
-"вуліца Асаналіева",wikidata,M,Q4071131,relation
+"вуліца Асаналіева",wikidata,M,Q4071131,relation+way
 "вуліца Аўэзава",wikidata,M,Q557348,way
 "вуліца Бабушкіна",wikidata,M,Q732269,way
 "вуліца Багдана Хмяльніцкага",wikidata,M,Q203808,way
@@ -231,6 +231,7 @@ name,source,gender,wikidata,type
 "вуліца Ламаносава",wikidata,M,Q58720,way
 "вуліца Лапаціна",wikidata,M,Q4266601,way
 "вуліца Леаніда Бяды",wikidata,M,Q1096685,way
+"вуліца Леаніда Шчамялёва",wikidata,M,Q3895224,way
 "вуліца Леніна",wikidata,M,Q1394,way
 "вуліца Лермантава",wikidata,M,Q46599,way
 "вуліца Лук’яновіча",wikidata,M,Q4269222,way
@@ -242,6 +243,7 @@ name,source,gender,wikidata,type
 "вуліца Макаёнка",wikidata,M,Q783039,way
 "вуліца Максіма Багдановіча",wikidata,M,Q471207,way
 "вуліца Максіма Гарэцкага",wikidata,M,Q2500903,way
+"вуліца Максіма Лужаніна",wikidata,M,Q13031370,way
 "вуліца Максіма Танка",wikidata,M,Q2419271,way
 "вуліца Малініна",wikidata,M,Q2033029,way
 "вуліца Маневіча",wikidata,M,Q4280343,way
