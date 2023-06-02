@@ -8,7 +8,7 @@ name,source,gender,wikidata,type
 "вуліца Веры Слуцкай",wikidata,F,Q1969808,way
 "вуліца Веры Харужай",wikidata,F,Q889485,way
 "вуліца Еўфрасінні Полацкай",wikidata,F,Q257706,way
-"вуліца Зоі Касмадзям’янскай",wikidata,F,Q229062,way
+"вуліца Зоі Касмадзямʼянскай",wikidata,F,Q229062,way
 "вуліца Канстанцыі Буйло",wikidata,F,Q800005,way
 "вуліца Клары Цэткін",wikidata,F,Q75823,way
 "вуліца Крупскай",wikidata,F,Q215637,way
@@ -19,7 +19,7 @@ name,source,gender,wikidata,type
 "вуліца Няжданавай",wikidata,F,Q2450734,way
 "вуліца Розы Люксембург",wikidata,F,Q7231,way
 "завулак Няжданавай",wikidata,F,Q2450734,way
-"завулак Соф’і Кавалеўскай",wikidata,F,Q184535,way
+"завулак Софʼі Кавалеўскай",wikidata,F,Q184535,way
 "1-ы завулак Акрэсціна",wikidata,M,Q4332700,way
 "1-ы завулак Арцёма",wikidata,M,Q1332918,way
 "1-ы завулак Баграціёна",wikidata,M,Q239260,way
@@ -234,7 +234,7 @@ name,source,gender,wikidata,type
 "вуліца Леаніда Шчамялёва",wikidata,M,Q3895224,way
 "вуліца Леніна",wikidata,M,Q1394,way
 "вуліца Лермантава",wikidata,M,Q46599,way
-"вуліца Лук’яновіча",wikidata,M,Q4269222,way
+"вуліца Лукʼяновіча",wikidata,M,Q4269222,way
 "вуліца Льва Сапегі",wikidata,M,Q727122,way
 "вуліца Ляшчынскага",wikidata,M,Q2855927,way
 "вуліца Ляўкова",wikidata,M,Q4256663,way
