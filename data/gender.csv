@@ -91,10 +91,10 @@ name,source,gender,wikidata,type
 "вуліца Іосіфа Гашкевіча",wikidata,M,Q2493535,way
 "вуліца Іосіфа Жыновіча",wikidata,M,Q2813883,way
 "вуліца Іскаліева",wikidata,M,Q16436111,way
-"вуліца Ўладзіслава Сыракомлі",wikidata,M,Q472576,way
 "вуліца Авакяна",wikidata,M,Q4055296,way
 "вуліца Агарова",wikidata,M,Q374362,way
 "вуліца Адама Шэмеша",wikidata,M,Q3917990,way
+"вуліца Адзінцова",wikidata,M,Q115903012,way
 "вуліца Адоеўскага",wikidata,M,Q952777,way
 "вуліца Азгура",wikidata,M,Q2662326,way
 "вуліца Азізава",wikidata,M,Q4058328,way
@@ -111,7 +111,7 @@ name,source,gender,wikidata,type
 "вуліца Алеся Гаруна",wikidata,M,Q2368365,way
 "вуліца Алешава",wikidata,M,Q4333700,way
 "вуліца Альшэўскага",wikidata,M,Q16448138,way
-"вуліца Алібегава",wikidata,M,Q17043834,way
+"вуліца Алібегава",wikidata,M,Q21422641,way
 "вуліца Амельянюка",wikidata,M,Q17093928,way
 "вуліца Анаева",wikidata,M,Q4066570,way
 "вуліца Арджанікідзэ",wikidata,M,Q259843,way
@@ -150,6 +150,7 @@ name,source,gender,wikidata,type
 "вуліца Верашчагіна",wikidata,M,Q127017,way
 "вуліца Волаха",wikidata,M,Q4124004,way
 "вуліца Выгоцкага",wikidata,M,Q180819,way
+"вуліца Віктара Турава",wikidata,M,Q3920850,way
 "вуліца Гагарына",wikidata,M,Q7327,way
 "вуліца Галадзеда",wikidata,M,Q2663685,way
 "вуліца Гамарніка",wikidata,M,Q723290,way
@@ -180,9 +181,11 @@ name,source,gender,wikidata,type
 "вуліца Дуніна-Марцінкевіча",wikidata,M,Q3008609,way
 "вуліца Ежы Гедройца",wikidata,M,Q723328,relation
 "вуліца Ермака",wikidata,M,Q3918576,way
+"вуліца Жудро",wikidata,M,Q39391042,way
 "вуліца Жукоўскага",wikidata,M,Q271956,way
 "вуліца Жылуновіча",wikidata,M,Q475004,way
 "вуліца Заслонава",wikidata,M,Q4187915,way
+"вуліца Захарава",wikidata,M,Q39388548,way
 "вуліца Змітрака Бядулі",wikidata,M,Q2662384,way
 "вуліца Зубачова",wikidata,M,Q4194263,relation
 "вуліца Кабушкіна",wikidata,M,Q3917386,way
@@ -196,6 +199,7 @@ name,source,gender,wikidata,type
 "вуліца Кандрата Крапівы",wikidata,M,Q2633494,way
 "вуліца Караленкі",wikidata,M,Q335064,way
 "вуліца Караля",wikidata,M,Q46126,way
+"вуліца Караткевіча",wikidata,M,Q39388959,way
 "вуліца Карбышава",wikidata,M,Q21797,way
 "вуліца Карвата",wikidata,M,Q2620708,way
 "вуліца Каржа",wikidata,M,Q4232980,way
@@ -237,6 +241,7 @@ name,source,gender,wikidata,type
 "вуліца Лермантава",wikidata,M,Q46599,way
 "вуліца Лукʼяновіча",wikidata,M,Q4269222,way
 "вуліца Льва Сапегі",wikidata,M,Q727122,way
+"вуліца Льва Талстога",wikidata,M,Q7243,way
 "вуліца Ляшчынскага",wikidata,M,Q2855927,way
 "вуліца Ляўкова",wikidata,M,Q4256663,way
 "вуліца Мажайскага",wikidata,M,Q365820,way
@@ -256,6 +261,7 @@ name,source,gender,wikidata,type
 "вуліца Маякоўскага",wikidata,M,Q132964,way
 "вуліца Мележа",wikidata,M,Q2638610,way
 "вуліца Мендзялеева",wikidata,M,Q9106,way
+"вуліца Мяржынскага",wikidata,M,Q63859104,way
 "вуліца Мяснікова",wikidata,M,Q1390561,way
 "вуліца Мікуліча",wikidata,M,Q19693070,way
 "вуліца Мірашнічэнкі",wikidata,M,Q4296263,way
@@ -310,6 +316,7 @@ name,source,gender,wikidata,type
 "вуліца Собінава",wikidata,M,Q1397007,way
 "вуліца Солтыса",wikidata,M,Q4428509,way
 "вуліца Сталетава",wikidata,M,Q983607,way
+"вуліца Станіслава Манюшкі",wikidata,M,Q217613,way
 "вуліца Станіслаўскага",wikidata,M,Q49484,way
 "вуліца Стасава",wikidata,M,Q464192,way
 "вуліца Суворава",wikidata,M,Q154232,way
@@ -318,6 +325,7 @@ name,source,gender,wikidata,type
 "вуліца Сурыкава",wikidata,M,Q110228,way
 "вуліца Сцебянёва",wikidata,M,Q16448281,relation
 "вуліца Сядова",wikidata,M,Q358579,way
+"вуліца Сядых",wikidata,M,Q28913235,way
 "вуліца Сяліцкага",wikidata,M,Q4413828,way
 "вуліца Сямашкі",wikidata,M,Q2361443,relation
 "вуліца Сяргея Ясеніна",wikidata,M,Q31628,way
@@ -331,6 +339,7 @@ name,source,gender,wikidata,type
 "вуліца Тухачэўскага",wikidata,M,Q142141,way
 "вуліца Убарэвіча",wikidata,M,Q2415172,way
 "вуліца Уладзіслава Галубка",wikidata,M,Q3920249,way
+"вуліца Уладзіслава Сыракомлі",wikidata,M,Q472576,way
 "вуліца Усевалада Ігнатоўскага",wikidata,M,Q2067587,way
 "вуліца Ушакова",wikidata,M,Q314339,way
 "вуліца Фабрыцыуса",wikidata,M,Q126821,way
@@ -403,8 +412,8 @@ name,source,gender,wikidata,type
 "завулак Кузьмы Чорнага",wikidata,M,Q2662343,way
 "завулак Лазо",wikidata,M,Q2373753,way
 "завулак Ламаносава",wikidata,M,Q58720,way
+"завулак Льва Талстога",wikidata,M,Q7243,way
 "завулак Максіма Багдановіча",wikidata,M,Q471207,way
-"завулак Масквіна",wikidata,M,Q1972072,way
 "завулак Маякоўскага",wikidata,M,Q132964,way
 "завулак Някрасава",wikidata,M,Q208003,way
 "завулак Паўзунова",wikidata,M,Q1079586,way
@@ -415,7 +424,6 @@ name,source,gender,wikidata,type
 "завулак Сурыкава",wikidata,M,Q110228,way
 "завулак Сцебянёва",wikidata,M,Q16448281,way
 "завулак Талаша",wikidata,M,Q278398,way
-"завулак Талстога",wikidata,M,Q7243,way
 "завулак Ушакова",wikidata,M,Q314339,way
 "завулак Фабрыцыуса",wikidata,M,Q126821,way
 "завулак Фядотава",wikidata,M,Q248597,way
@@ -434,7 +442,6 @@ name,source,gender,wikidata,type
 "праезд Галадзеда",wikidata,M,Q2663685,way
 "праезд Кальцова",wikidata,M,Q444969,way
 "праезд Катоўскага",wikidata,M,Q734839,way
-"праезд Масюкоўшчына",wikidata,M,Q2043806,way
 "праезд Сталетава",wikidata,M,Q983607,way
 "праезд Сурыкава",wikidata,M,Q110228,way
 "праезд Чайкоўскага",wikidata,M,Q7315,way
