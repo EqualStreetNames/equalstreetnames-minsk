@@ -30,7 +30,6 @@ name,source,gender,wikidata,type
 "Кастрычніцкая плошча",wikidata,,Q42976,relation
 "Кобрынская вуліца",wikidata,,Q955992,relation
 "Лагойскі тракт",wikidata,,Q200968,way
-"Ленінградзкая вуліца",wikidata,,Q656;Q27899309,way
 "Ленінградская вуліца",wikidata,,Q656;Q27899309,way
 "Лібава-Роменская вуліца",wikidata,,Q2479029,way
 "Лідская вуліца",wikidata,,Q241475,way
@@ -648,6 +647,7 @@ name,source,gender,wikidata,type
 "Планёрная вуліца",,,,way
 "Плошча 8-га сакавіка",,,,way
 "Плошча Бангалор",,,,way
+"Плошча Паштальёна",,,,relation
 "Плошча Перамен",,,,relation
 "Плошча Смерці",,,,way
 "Плошча Стары Аэрапорт",,,,way
