@@ -1,5 +1,5 @@
 name,source,gender,wikidata,type
-"вуліца Аладавых",wikidata,+,Q336772;Q3918371,way
+"вуліца Аладавых",wikidata,?,Q336772;Q3918371;Q3920249,way
 "2-і завулак Розы Люксембург",wikidata,F,Q7231,way
 "Нававіленская вуліца",wikidata,F,Q444566,way
 "вуліца Алаізы Пашкевіч",wikidata,F,Q2986655,way
@@ -319,6 +319,7 @@ name,source,gender,wikidata,type
 "вуліца Сталетава",wikidata,M,Q983607,way
 "вуліца Станіслава Манюшкі",wikidata,M,Q217613,way
 "вуліца Станіслаўскага",wikidata,M,Q49484,way
+"вуліца Стасава",wikidata,M,Q464192,way
 "вуліца Суворава",wikidata,M,Q154232,way
 "вуліца Судмаліса",wikidata,M,Q1575062,way
 "вуліца Сурганава",wikidata,M,Q4446457,way
