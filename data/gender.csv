@@ -139,6 +139,7 @@ name,source,gender,wikidata,type
 "Плошча Ванеева",wikidata,M,Q4103343,way
 "Плошча Змітрака Бядулі",wikidata,M,Q2662384,way
 "Плошча Мяснікова",wikidata,M,Q1390561,way
+"Плошча Францішка Багушэвіча",wikidata,M,Q2996666,way
 "Радыяльная вуліца",wikidata,M,Q3917386,way
 "Разінская вуліца",wikidata,M,Q193175,way
 "Разінскі завулак",wikidata,M,Q193175,way
@@ -395,7 +396,6 @@ name,source,gender,wikidata,type
 "вуліца Сярова",wikidata,M,Q487817,relation
 "вуліца Талаша",wikidata,M,Q278398,way
 "вуліца Талбухіна",wikidata,M,Q48149,way
-"вуліца Талстога",wikidata,M,Q7243,way
 "вуліца Тарханава",wikidata,M,Q3541232,way
 "вуліца Тупалева",wikidata,M,Q219734,way
 "вуліца Тургенева",wikidata,M,Q42831,way
